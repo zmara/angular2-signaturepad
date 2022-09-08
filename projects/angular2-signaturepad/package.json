@@ -1,6 +1,6 @@
 {
   "name": "zmara-angular2-signaturepad",
-  "version": "4.0.3",
+  "version": "4.0.4",
   "description": "Angular2 Component wrapper for szimek / signature_pad",
   "repository": {
     "type": "git",
